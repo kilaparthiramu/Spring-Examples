@@ -5,6 +5,7 @@ import org.springframework.beans.factory.xml.XmlBeanFactory;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 
+@SuppressWarnings("deprecation")
 public class Main {
 
 	public static void main(String[] args) {
@@ -17,7 +18,5 @@ public class Main {
 			Employee employee = (Employee)o;
 			employee.display();
 		}
-
 	}
-
 }
