@@ -1,0 +1,22 @@
+package com.spring;
+
+public class Employee {
+
+	private int id;
+	private String name;
+
+	
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public void display(){
+		System.out.println(Id+"..............."+name);
+	}
+
+}

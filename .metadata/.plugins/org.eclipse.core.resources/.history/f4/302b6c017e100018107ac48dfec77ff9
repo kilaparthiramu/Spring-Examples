@@ -1,0 +1,8 @@
+package com.spring;
+
+public class Employee {
+	
+	privte int Id;
+	Private String name;
+
+}

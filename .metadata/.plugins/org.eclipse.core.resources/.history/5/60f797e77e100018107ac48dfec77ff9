@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="employee" class="com.spring.Employee">
+		<property name="id" value="101"/>
+		<property name="name" value="Kilaparthi"/>
+	</bean>
+</beans>
