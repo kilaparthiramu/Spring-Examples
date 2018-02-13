@@ -1193,3 +1193,24 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-13 11:57:43.953
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-13 11:59:27.903
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-13 11:59:27.906
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-02-13 11:59:28.565
+!MESSAGE Launch configuration Main (1) references non-existing project SiwithPrimitive.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-02-13 11:59:28.567
+!MESSAGE Launch configuration Main (1) references non-existing project SiwithPrimitive.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-02-13 11:59:28.573
+!MESSAGE Launch configuration Main (1) references non-existing project SiwithPrimitive.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-13 11:59:29.057
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-13 11:59:29.059
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
