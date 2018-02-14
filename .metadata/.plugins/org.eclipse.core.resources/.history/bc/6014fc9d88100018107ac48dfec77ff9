@@ -1,0 +1,9 @@
+package com.spring;
+
+public class Address {
+
+	private int dNo;
+	private String village;
+	private String district;
+
+}

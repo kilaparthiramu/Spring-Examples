@@ -1,0 +1,7 @@
+package com.spring;
+
+public class Department {
+	
+	private String name;
+
+}

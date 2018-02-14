@@ -1,0 +1,9 @@
+package com.spring;
+
+public class Student {
+	
+	private int studentId;
+	private String studentName;
+	private Department department;
+
+}
